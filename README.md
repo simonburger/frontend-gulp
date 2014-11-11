@@ -44,3 +44,12 @@ From the command line, in your theme directory, run:
 ```
 gulp
 ```
+
+
+##Drupal Mothership integration
+If you want to use this with Drupal Mothership, which is what I'm currently doing, before you do all the above, create a new mothership subtheme with the following:
+```
+drush cc drush
+drush mothership "Name of sub theme"
+
+```
