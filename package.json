@@ -5,19 +5,18 @@
   "devDependencies": {
     "gulp": "~3.6.0",
     "gulp-rename": "~1.2.0",
-    "gulp-ruby-sass": "~0.4.3",
+    "gulp-sass": "latest",
     "gulp-clean": "~0.2.4",
     "gulp-minify-css": "~0.3.1",
     "gulp-concat": "~2.2.0",
-    "tiny-lr": "0.0.5",
-    "gulp-livereload": "~1.3.1",
     "gulp-autoprefixer": "0.0.7",
     "gulp-uglify": "~0.2.1",
     "gulp-notify": "~1.2.5",
     "gulp-cache": "~0.1.3",
     "gulp-jshint": "~1.5.3",
-    "gulp-imagemin": "~0.2.0",
+    "gulp-imagemin": "latest",
     "optipng-bin": "latest",
-    "browser-sync": "~0.8.0"
+    "browser-sync": "~0.8.0",
+    "gulp-raster": "0.0.4"
   }
 }
